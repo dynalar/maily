@@ -1,3 +1,4 @@
+// Entry point of application
 fn main() {
-    println!("Hello, world!");
+    println!("hello world!")
 }
